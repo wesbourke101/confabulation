@@ -25,8 +25,6 @@ function App() {
             borderRadius: 20,
             shadowColor: "black",
             
-            shadowOpacity: 0.2,
-            shadowRadius: 3
           }}
         />
       </View>
